@@ -200,10 +200,10 @@ void LRN(tode* root) {
 */
 
 int main() {
-	/*string br;
+	string br;
 	cout << "Nhap dau: ";
 	cin >> br;
-	cout << check_bracket(br);*/
+	cout << check_bracket(br);
 
 	tree tree_; tinit(tree_);
 	insertTode(tree_, 7);
